@@ -8,7 +8,7 @@ Guidolin, A., Desroches, M., Victor, J. D., Purpura, K., & Rodrigues, S. (2021).
 For a given dataset, select the 80 collection with the highest number of non-empty responses, for the 4 neurons firing the highest number of spikes. In each collection, the responses to the first 64 stimuli are considered, and at most one empty response is included (when present in the data).
 
 Use the function **select_one0.m**, for example, for the dataset "L7301_TT1_btc_SPKTs".
-Note that it uses the fucntion **spikes_and_labels.m** to correctly extract spike times and labels identifying the different neurons in from the original data.
+Note that it uses the function **spikes_and_labels.m** to correctly extract spike times and labels identifying the different neurons in from the original data.
 
 ```matlab
 filename = "L7301_TT1_btc_SPKTs";
