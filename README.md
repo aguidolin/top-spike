@@ -1,7 +1,7 @@
 # Top-spike
 A collection of Matlab scripts and functions for topological analysis of spike train data.
 
-This collection of Matlab scripts and functions accompanies the manuscript
+This collection of Matlab scripts and functions accompanies the manuscript  
 Guidolin, A., Desroches, M., Victor, J. D., Purpura, K., & Rodrigues, S. (2021). *Geometry of spiking activity in early visual cortex: a Topological Data Analytic approach.*
 
 #### Select and organize the spike data
