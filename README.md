@@ -1,8 +1,8 @@
 # Top-spike
 A collection of Matlab scripts and functions for topological analysis of spike train data.
 
-This collection of Matlab scripts and functions accompanies the manuscript  
-Guidolin, A., Desroches, M., Victor, J. D., Purpura, K. P., & Rodrigues, S. (2021). *Geometry of spiking activity in early visual cortex: a Topological Data Analytic approach.*
+This collection of Matlab scripts and functions accompanies the article  
+Guidolin, A., Desroches, M., Victor, J. D., Purpura, K. P., & Rodrigues, S. (2022). *Geometry of spiking patterns in early visual cortex: a Topological Data Analytic approach.*
 
 #### Select and organize the spike data
 For a given dataset, select the 80 collection with the highest number of non-empty responses, for the 4 neurons firing the highest number of spikes. In each collection, the responses to the first 64 stimuli are considered, and at most one empty response is included (when present in the data).
